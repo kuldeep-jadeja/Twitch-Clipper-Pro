@@ -1,0 +1,12 @@
+{
+    "enabled": true,
+    "default_threshold": 2.2,
+    "streamers": [
+        {
+            "name": "Tarik"
+        },
+        {
+            "name": "pokimane"
+        }
+    ]
+}
